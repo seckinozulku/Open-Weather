@@ -1,1 +1,1 @@
-# API kullanarak oluşturulmuş her şehir için güncel hava durumu
+# Current weather for each city created using the API
